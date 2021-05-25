@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pufi</title>
+</head>
+<body style="background-color:FireBrick;">
 
-You can use the [editor on GitHub](https://github.com/nicolai17/pufi/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<strong><h1 style="background-color:BlueViolet;font-size:40px">Cel mai bun caine, Pufi</h1></strong>
+<p  style="background-color:DarkOrange;font-size:35px">Cine este Pufi?</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b><p  style="background-color:DodgerBlue;font-size:30px">Pufi este cainele meu. Este cel mai bun caine pe care il poate avea cineva si nu stiu ce m-as face fara el. Il iubesc nespus de mult.</p></b>
+<img src="pufi1.jpg"  style="width:800px;height:700px;">
+<img src="pufi2.jpg" style="width:800px;height:700px;">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nicolai17/pufi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p style="background-color:GoldenRod;font-size:35px;">De ce il iubesc pe Pufi?
+<ul>
+<li style="background-color:LightCoral;font-size:30px;">Este frumos
+<li style="background-color:LightCoral;font-size:30px;">Este inteligent
+<li style="background-color:LightCoral;font-size:30px;">Este cuminte (cateodata)
+<li style="background-color:LightCoral;font-size:30px;">Este jucaus
+</ul>
+</body>
+</html>
