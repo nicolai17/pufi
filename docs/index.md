@@ -9,8 +9,8 @@
 <p  style="background-color:DarkOrange;font-size:35px">Cine este Pufi?</p>
 
 <b><p  style="background-color:DodgerBlue;font-size:30px">Pufi este cainele meu. Este cel mai bun caine pe care il poate avea cineva si nu stiu ce m-as face fara el. Il iubesc nespus de mult.</p></b>
-<img src="/imagini/pufi1.JPG"  style="width:800px;height:700px;">
-<img src="/imagini/pufi2.jpg" style="width:800px;height:700px;">
+<img src="/assets/pufi1.JPG"  style="width:800px;height:700px;">
+<img src="/assets/pufi2.jpg" style="width:800px;height:700px;">
 
 <p style="background-color:GoldenRod;font-size:35px;">De ce il iubesc pe Pufi?
 <ul>
